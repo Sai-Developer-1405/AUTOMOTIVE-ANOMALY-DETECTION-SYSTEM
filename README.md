@@ -1,4 +1,4 @@
-# 🚗 Real-Time Anomaly & Intrusion Detection for Safeguarding Intra-Vehicle Communication System
+# 🚗 AUTOMOTIVE-ANOMALY-DETECTION-SYSTEM
 
 ## 🌟 Project Overview
 With the increasing integration of technology in modern **Electric Vehicles (EVs)**, cybersecurity threats targeting **intra-vehicle communication** have risen significantly. This project implements a **Real-Time Anomaly and Intrusion Detection System** powered by **Artificial Intelligence (AI)** to safeguard **Controller Area Network (CAN) bus communication** from cyberattacks. By leveraging **Machine Learning (ML) algorithms** and an **optimized Support Vector Machine (SVM) model enhanced with Social Spider Optimization (SSO)**, this system ensures real-time monitoring, threat detection, and proactive security measures.
