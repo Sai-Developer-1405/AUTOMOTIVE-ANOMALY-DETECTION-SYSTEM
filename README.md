@@ -96,7 +96,7 @@ The model operates in **three key stages**:
 ## 📧 Contact
 For queries and collaborations, reach out at:
 - **GitHub:** [Sai-Developer-1405](https://github.com/Sai-Developer-1405)
-- **Email:** ping2sai@gmail.com
+- **Email:** ping2saas145@gmail.com
 
 ## 📜 License
 This project is licensed under the **MIT License**.
